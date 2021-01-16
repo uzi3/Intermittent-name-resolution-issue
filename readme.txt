@@ -1,0 +1,3 @@
+There are times when the name resolution of some URL does not happen. But when you check after sometime, it works perfect. So is there any way to track this intermittent name resolution issue. Yes there is!! This script helps you to monitor name resolution of a URL for the specified time. It will track the error and time in a CSV file. You can mention the duration (minutes, hours or days) for the script to monitor the name resolution.
+
+NOTE: The powershell process running this script will hog memory over the time, hence you require to keep a track of available memory and processor periodically.
